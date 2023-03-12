@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Anaruthde!
 - 🌱 I’m interested in Biology, art and everything new!
-- 📚 I’m currently learning programming and Web Design.
+- 📚 I’m currently learning programming with Web Design.
 - 💞️ I’m looking to collaborate on this cool plataform or others projects when I learn more.
 - 📫 Contacts or content that is helpful to learn more about programming are all welcome!
 
